@@ -13,3 +13,14 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics,beans,env,loggers
+
+management:
+  endpoint:
+    health:
+      show:
+        details: always
