@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://dpg-d2dm0rre5dus738703a0-a.oregon-postgres.render.com:5432/bistral-order-service
+    url: jdbc:postgresql://dpg-d31rd9vdiees7386vrtg-a.oregon-postgres.render.com:5432/bistral-order-service
  
 
 server:
