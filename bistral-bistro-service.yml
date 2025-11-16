@@ -1,6 +1,9 @@
 spring:
   datasource:
     url: jdbc:postgresql://dpg-d3v37sili9vc73cgmnj0-a.oregon-postgres.render.com:5432/bistral-bistro-service
+  jpa:
+    hibernate:
+      ddl-auto: none
 
 server:
   port: 8084
