@@ -19,7 +19,6 @@ spring:
         format_sql: true
         jdbc: 
           batch_size: 50
-          time_zone: Asia/Kolkata
         order_inserts: true
         order_updates: true
         generate_statistics: true
