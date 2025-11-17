@@ -1,9 +1,9 @@
 # spring:
 #   datasource:
-#     url: jdbc:postgresql://dpg-d3v37sili9vc73cgmnj0-a.oregon-postgres.render.com:5432/bistral-order-db
+#     url: jdbc:postgresql://dpg-d3v37sili9vc73cgmnj0-a.oregon-postgres.render.com:5432/bistral-order-service
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/bistral-order-service
+    url: jdbc:postgresql://localhost:5432/bistral-order-db
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver
