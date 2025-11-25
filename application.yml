@@ -7,8 +7,8 @@ eureka:
 
 spring:
   datasource:
-    username: ruddarm
-    password: XdxJruZMGJnVTEOIXTlb7nxN31cvXjbl
+    username: postgres
+    password: postgres
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
