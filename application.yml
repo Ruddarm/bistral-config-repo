@@ -30,3 +30,5 @@ management:
     health:
       show:
         details: always
+server:
+  adress: 0.0.0.0
