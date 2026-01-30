@@ -16,12 +16,6 @@ springdoc:
     path: /swagger-ui.html
 
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-
 
 server:
   port: 8085
