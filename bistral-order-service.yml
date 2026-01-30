@@ -14,8 +14,7 @@ springdoc:
   swagger-ui:
     enabled: true
     path: /swagger-ui.html
-  paths-to-match: /**
-  packages-to-scan: com.bistral.app
+
 
 management:
   endpoints:
