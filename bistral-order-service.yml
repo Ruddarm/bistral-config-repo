@@ -4,9 +4,7 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/bistral_order_db
-    username: postgres
-    password: postgres
-    driver-class-name: org.postgresql.Driver
+
 
 
 
